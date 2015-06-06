@@ -1,6 +1,6 @@
 # Google Play Screen Scraping
 
-**Problem:** Screen scarping Google Play instead of using the API.
+**Problem:** Screen scraping Google Play instead of using the API.
 
 **Solution:** Screen scraping Google Play website using `requests` and `BeautifulSoup` external modules. See screenScrapingGP.py.
 
